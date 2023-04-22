@@ -2,7 +2,7 @@
 Code for our paper :\
 BiCoD: Bidirectional Correlated Depth Guidance for Domain Adaptation Segmentation
 
-<img src="./extra/process2.png" alt="alt text" width="50%" height="50%">
+<img src="./extra/process2.png" alt="alt text" width="100%" height="100%">
 
 # 1. Installation
 Please create and activate the following conda envrionment. To reproduce our results, please kindly create and use this environment.
