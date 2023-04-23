@@ -79,8 +79,8 @@ Reported Results on SYNTHIA2Cityscapes (The reported results are based on 5 runs
 |  FDA    | 52.5   | -        |
 |  DADA   | 49.8   | 42.6     |
 |  CTRL   | 51.5   | 45     |
-|  BiCoD   | 62.8   | 55.0     |
-|**BiCoD**| **64.4**   | **55.0**     |
+|  CorDA   | 62.8   | 55.0     |
+|**BiCoD**| **64.4**   | **56.8**     |
 
 
 ## Acknowledgement 
